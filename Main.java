@@ -9,7 +9,9 @@ public class Main {
         // Sets each element to a random value between 0 and 99
         Arrays.setAll(randomNumbers, i -> random.nextInt(100));
 
-        System.out.println(Arrays.toString(randomNumbers)); // Output: [e.g., 12, 47, 86, 33, 5]
+        System.out.println(Arrays.toString(randomNumbers));// Output: [e.g., 12, 47, 86, 33, 5]
+
+        System.out.println("Ohhhhh.... Yeah......");
     }
 }
 
